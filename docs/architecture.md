@@ -71,3 +71,7 @@ The second measurement to take is only knowable after seeing the result of the f
 the diagnostic value of probing `n2` depends entirely on what `n1` read. This is
 irreducibly sequential: no fixed prompt or one-shot generation can substitute for the
 agent's step-by-step reasoning under partial information.
+
+
+<img width="2720" height="1960" alt="circuit_debug_agent_architecture" src="https://github.com/user-attachments/assets/70279073-dcbe-47c8-8f0e-53833c2e106c" />
+
