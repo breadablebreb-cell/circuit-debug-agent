@@ -35,7 +35,7 @@ def measure(circuit, node_name):
 
 # ---------- Gemini agent setup ----------
 
-client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
+client = genai.Client(api_key=os.environ["GEMINI API KEY"])
 
 measure_node_decl = {
     "name": "measure_node",
