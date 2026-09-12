@@ -1,0 +1,2 @@
+google-genai==2.23.0
+PySpice==1.5
